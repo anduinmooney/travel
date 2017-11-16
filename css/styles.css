@@ -1,0 +1,12 @@
+body{
+  background-image: url("../img/background.gif");
+  background-repeat: no-repeat;
+  background-size: 100% 140%;
+}
+.price{
+  font-style: italic;
+}
+
+.panel-body{
+  background-color: rgba(229, 185, 137, 0.5);
+}
